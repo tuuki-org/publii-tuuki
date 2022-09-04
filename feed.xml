@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Tuuki</title>
+    <link href="https://tuuki-org.github.io/publii-tuuki/feed.xml" rel="self" />
+    <link href="https://tuuki-org.github.io/publii-tuuki" />
+    <updated>2022-09-04T23:09:25+02:00</updated>
+    <author>
+        <name>Martin N.</name>
+    </author>
+    <id>https://tuuki-org.github.io/publii-tuuki</id>
+
+    <entry>
+        <title>TEDxBrussels - All Aboard!</title>
+        <author>
+            <name>Martin N.</name>
+        </author>
+        <link href="https://tuuki-org.github.io/publii-tuuki/tedxbrussels-all-aboard.html"/>
+        <id>https://tuuki-org.github.io/publii-tuuki/tedxbrussels-all-aboard.html</id>
+            <category term="TEDxBrussels"/>
+
+        <updated>2022-09-04T23:04:00+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Mind &amp; Market Plux</title>
+        <author>
+            <name>Martin N.</name>
+        </author>
+        <link href="https://tuuki-org.github.io/publii-tuuki/mind-and-market-plux.html"/>
+        <id>https://tuuki-org.github.io/publii-tuuki/mind-and-market-plux.html</id>
+            <category term="Mind &amp; Market"/>
+
+        <updated>2022-09-04T23:09:25+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>TEDxBrussels 2022</title>
+        <author>
+            <name>Martin N.</name>
+        </author>
+        <link href="https://tuuki-org.github.io/publii-tuuki/tedxbrussels-2022.html"/>
+        <id>https://tuuki-org.github.io/publii-tuuki/tedxbrussels-2022.html</id>
+            <category term="TEDxBrussels"/>
+
+        <updated>2022-09-04T23:08:23+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

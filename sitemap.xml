@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://tuuki-org.github.io/publii-tuuki/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://tuuki-org.github.io/publii-tuuki/</loc>
+</url>
+<url>
+<loc>https://tuuki-org.github.io/publii-tuuki/mind-and-market-plux.html</loc>
+<lastmod>2022-09-04T23:09:25+02:00</lastmod>
+<image:image>
+<image:loc>https://tuuki-org.github.io/publii-tuuki/media\posts\2/Idelux-5039.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://tuuki-org.github.io/publii-tuuki/tedxbrussels-2022.html</loc>
+<lastmod>2022-09-04T23:08:23+02:00</lastmod>
+<image:image>
+<image:loc>https://tuuki-org.github.io/publii-tuuki/media\posts\1/9C2A0315.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://tuuki-org.github.io/publii-tuuki/tedxbrussels-all-aboard.html</loc>
+<lastmod>2022-09-04T23:04:00+02:00</lastmod>
+</url>
+</urlset>
